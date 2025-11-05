@@ -1,2 +1,2 @@
 # page-redirect
-Redirect bitdevs.nl to bitdevsamsterdam.com
+GitHub Pages redirect to https://bitdevsamsterdam.org
